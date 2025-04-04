@@ -1,5 +1,5 @@
 
- # código de geração do gráfico  
+ # código de geração do gráfico
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
